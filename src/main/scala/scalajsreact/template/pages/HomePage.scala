@@ -11,7 +11,7 @@ object HomePage {
   object Style extends StyleSheet.Inline {
     import dsl._
     val content = style(textAlign.center,
-                        fontSize(30.px),
+                        fontSize(50.px),
                         minHeight(450.px),
                         paddingTop(40.px))
   }
